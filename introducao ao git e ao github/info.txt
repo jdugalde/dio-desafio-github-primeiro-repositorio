@@ -1,0 +1,16 @@
+:: Informações ::
+Links de download do Github
+
+
+For Windows
+https://git-scm.com/download/win
+
+For macOS
+https://git-scm.com/download/mac
+
+For Linux and Unix
+https://git-scm.com/download/linux
+
+
+Lind de como instalar o Git
+https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
